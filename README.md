@@ -1,6 +1,7 @@
 # Customer Remediation Analytics
 
  Business Problem
+ 
 A bank identified a potential configuration error where customers were charged higher ATM fees. The objective is to identify impacted customers, calculate refund liabilities, analyze complaint patterns, and predict remediation risk.
 
 Tools Used
