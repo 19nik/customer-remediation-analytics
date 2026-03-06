@@ -5,11 +5,13 @@
 A bank identified a potential configuration error where customers were charged higher ATM fees. The objective is to identify impacted customers, calculate refund liabilities, analyze complaint patterns, and predict remediation risk.
 
 Tools Used
+
 SQL  
 Python (Pandas, Scikit-Learn)  
 Power BI  
 
  Workflow
+ 
 1. Data investigation using SQL
 2. Identification of impacted customers
 3. Refund calculation
@@ -19,6 +21,7 @@ Power BI
 7. Power BI dashboard visualization
 
 Key Insights
+
 - 381 customers were impacted
 - Total remediation liability ≈ 62K
 - Complaint patterns indicate system configuration issue
